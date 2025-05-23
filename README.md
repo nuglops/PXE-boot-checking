@@ -1,0 +1,1 @@
+# PXE-boot-checking
